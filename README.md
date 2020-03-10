@@ -23,5 +23,4 @@ the numbers are called to be relative primes for eachother. <br/>
 &nbsp; then ![equation](https://latex.codecogs.com/gif.latex?a) has an inverse ![equation](https://latex.codecogs.com/gif.latex?x) that also belongs to the <br/>
 &nbsp; same ring, such that ![equation](https://latex.codecogs.com/gif.latex?ax%3D1). <br/>
 &nbsp; This is equivalent for number ![equation](https://latex.codecogs.com/gif.latex?b) an ![equation](https://latex.codecogs.com/gif.latex?y) in a ring ![equation](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BZ%7D_%7Ba%7D). <br/>
-OBS! &nbsp; *Bézout's Identity* is defined first because it is called <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; inside the *Euclid's Algorithm*. <br/>
+OBS! &nbsp; *Bézout's Identity* is defined first because it is called inside the *Euclid's Algorithm*. <br/>
